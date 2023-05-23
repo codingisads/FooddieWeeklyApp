@@ -8,4 +8,4 @@ To use this app, you have to configure first you Firebase credentials.
 </p>
 
 
-![Fooddie Weekly](https://github.com/codingisads/FooddieWeeklyApp/blob/main/FooddieWeeklyApp.jpg?raw=true)
+![Fooddie Weekly](https://github.com/codingisads/FooddieWeeklyApp/blob/main/FooddieWeeklyApp.jpeg?raw=true)
