@@ -8,7 +8,7 @@ To use this app, you have to configure first you Firebase credentials.
 </p>
 
 <p align="left">
-APIs asn libraries used: 
+APIs and libraries used: 
   - Edamam
   - Firebase
   - Coil (for Android)
