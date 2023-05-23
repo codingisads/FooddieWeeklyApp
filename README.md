@@ -7,6 +7,13 @@
 To use this app, you have to configure first you Firebase credentials.
 </p>
 
+<p align="left">
+APIs asn libraries used: 
+  - Edamam
+  - Firebase
+  - Coil (for Android)
+</p>
+
 
 ![Fooddie Weekly](https://github.com/codingisads/FooddieWeeklyApp/blob/main/fooddieWeeklyImg.jpeg?raw=true)
 
