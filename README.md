@@ -8,8 +8,4 @@ To use this app, you have to configure first you Firebase credentials.
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingisads&show_icons=true&locale=en&layout=compact" alt="codingisads" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingisads&show_icons=true&locale=en" alt="codingisads" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingisads&" alt="codingisads" /></p>
+![Fooddie Weekly](https://github.com/codingisads/FooddieWeeklyApp/blob/main/FooddieWeeklyApp.jpg?raw=true)
