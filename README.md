@@ -15,7 +15,7 @@ APIs and libraries used:
 </p>
 
 
-[Fooddie Weekly APP DEMO (Youtube Video)](https://youtu.be/XAOZeunYcrw Youtube Video)
+[Fooddie Weekly APP DEMO (Youtube Video)](https://youtu.be/XAOZeunYcrw "Youtube Video")
 
 
 ![Fooddie Weekly](https://github.com/codingisads/FooddieWeeklyApp/blob/main/fooddieWeeklyImg.jpeg?raw=true)
