@@ -14,10 +14,11 @@ To use this app, you have to configure first you Firebase credentials.
 Whenever you save a recipe to your calendar, the ingredients you'll need will be added to your shopping cart!</p>
 
 <p align="left">
-APIs and libraries used: 
-  - Edamam
-  - Firebase
-  - Coil (for Android)
+APIs and libraries used: <br>
+  - Edamam<br>
+  - Firebase<br>
+  - Coil<br>
+  - Retrofit<br>
 </p>
 
 
