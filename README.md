@@ -9,9 +9,9 @@ To use this app, you have to configure first you Firebase credentials.
 
 
 <p>With this app you can create calendars to keep on track <b>what you eat during the week.</b> 
-  You can share them as well to fill the calendar with the meals you most like. 
+  You can share them with other users as well to fill the calendar with the meals you most like. 
   You can scroll down through many recipes and save them too.
-Whenever you save a recipe to your calendar, a shopping list will be created right after.</p>
+Whenever you save a recipe to your calendar, the ingredients you'll need will be added to your shopping cart!</p>
 
 <p align="left">
 APIs and libraries used: 
